@@ -21,7 +21,7 @@ console.log('Tobi Is Online');
 
 });
 
-const OWNER = "817019120570466354";
+const OWNER = "TU ID, SI QUIERES EH";
 
 //CONFIG
 var prefix = process.env.PREFIX || "t.";
