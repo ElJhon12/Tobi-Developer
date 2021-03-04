@@ -50,3 +50,8 @@ if(command === 'test'){
 }
 
 });
+
+//PD: Te tienes que crear un Archivo ".env" Y poner Lo siguiente: 
+//TOKEN= //token del bot
+//PREFIX= prefijo que quieres para tu bot
+// Gracias por leer, en caso de que todavía te hayas extraviado puedes ir a: README.md
